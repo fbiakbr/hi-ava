@@ -25,7 +25,7 @@
     />
 
     <!-- Audio file -->
-    <audio src="~/X Ambassadors - Unsteady.mp3" autoplay controls loop />
+    <audio src="~/assets/music/music.ogg" autoplay controls loop />
 
     <!-- Main -->
     <div class="main">
